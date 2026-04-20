@@ -66,6 +66,12 @@ public class Employee {
 		m.clear();
 		System.out.println(m);
 	}
+		private void empDOB() {
+			System.out.println("Employee DOB is 1996");
+		}
+		private void empNative() {
+			System.out.println("Employee Native is Chennai");
+		}
 	
 	
 }

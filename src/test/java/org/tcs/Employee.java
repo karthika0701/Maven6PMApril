@@ -66,12 +66,20 @@ public class Employee {
 		m.clear();
 		System.out.println(m);
 	}
-		private void empDOB() {
-			System.out.println("Employee DOB is 1996");
-		}
-		private void empNative() {
-			System.out.println("Employee Native is Chennai");
-		}
+	private void empId() {
+		System.out.println("Employee Id is 87654");
+
+	}
+	private void empName() {
+		System.out.println("Employee Name is Bala");
+	}
+	private void empDOB() {
+		System.out.println("Employee DOB is 1996");
+	}
+	private void empNative() {
+		System.out.println("Employee Native is Chennai");
+	}
+
 	
 	
 }

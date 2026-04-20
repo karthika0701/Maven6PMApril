@@ -66,6 +66,13 @@ public class Employee {
 		m.clear();
 		System.out.println(m);
 	}
+	private void empId() {
+		System.out.println("Employee Id is 87654");
+
+	}
+	private void empName() {
+		System.out.println("Employee Name is Bala");
+	}
 	
 	
 }
